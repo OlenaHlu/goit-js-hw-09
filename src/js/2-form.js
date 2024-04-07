@@ -30,6 +30,7 @@ function getForm(event) {
   };
   const formData = {
     email: emailData.value.trim(),
+    // message: messageData.value.trim(),
     message: messageData.value.trim(),
   };
 
